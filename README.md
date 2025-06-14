@@ -6,7 +6,9 @@
 > Concept
 
 ## Race: Broodkin 
-> description
+> The Broodkin are the last remnants of a nearly extinct necromantic bloodline — humans whose bodies entered a grotesque but stable symbiosis with necrotic larvae. These instinct-driven parasites sustain the host’s body, granting unnatural endurance and a slow, crawling form of regeneration. Outwardly human, Broodkin blend in with the living... until their biology betrays them.
+
+
 
 ### ASI:
 ```
@@ -35,7 +37,7 @@ Your walking speed is 30 feet.
 
 ### Deathless Nature:
 ```
-You have escaped death, a fact represented by the following benefits:
+You're not truly dead, but not fully alive either — a condition represented by the following benefits:
  - You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage.
  - You have advantage on death saving throws.
  - You don’t need to eat, drink, or breathe.
@@ -48,6 +50,21 @@ When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 
 ```
 
 ###  Necrotic Recomposition:
+> Your flesh is rewoven slowly by the necrotic larvae inside you — a crawling repair process neither divine nor natural. Holy energies burn or paralyze the swarm, locking your body in decay until they recover.
+```
+Your body cannot be healed by magical or mundane means. Instead:
+ - You regain hit points equal to your proficiency bonus at the end of every turn (every 6 seconds), whether in or out of combat, as long as you are above 0 HP.
+ - You cannot benefit from any form of magical or mundane healing: this includes spells, potions, hit dice, healing class features, and regeneration effects.
+ - If you are reduced to 0 hit points, this regeneration halts entirely until you are stabilized.
+ - If you take radiant damage or damage from a holy source, your regeneration is suppressed for 4 hours.
 ```
 
+### Brood Disguise
+*(this is a roleplay thingy that you could use in/against my advantage)*
+```
+Your body is nearly indistinguishable from a human's under normal conditions.
+
+Unless you are actively expelling larvae or suffering extreme physical trauma (e.g. a wound that causes over 50% of your HP in one blow), your condition remains undetectable.
+
+Creatures who closely examine you must succeed a DC 15 Medicine or Insight check to notice signs of your condition.
 ```
