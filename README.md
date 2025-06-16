@@ -5,8 +5,8 @@
 ## Core concept:
 > Concept
 
-## Race: Broodkin 
-> The Broodkin are the last remnants of a nearly extinct necromantic bloodline — humans whose bodies entered a grotesque but stable symbiosis with necrotic larvae. These instinct-driven parasites sustain the host’s body, granting unnatural endurance and a slow, crawling form of regeneration. Outwardly human, Broodkin blend in with the living... until their biology betrays them.
+## Race: Necrosar 
+> The Necrosar are the last remnants of a nearly extinct necromantic bloodline — humans whose bodies entered a grotesque but stable symbiosis with necrotic larvae. These instinct-driven parasites sustain the host’s body, granting unnatural endurance and a slow, crawling form of regeneration. Outwardly human, Necrosar blend in with the living... until their biology betrays them.
 
 
 
