@@ -60,7 +60,6 @@ Your body cannot be healed by magical or mundane means. Instead:
 ```
 
 ### Brood Disguise
-*(this is a roleplay thingy that you could use in/against my advantage)*
 ```
 Your body is nearly indistinguishable from a human's under normal conditions.
 
@@ -68,3 +67,7 @@ Unless you are actively expelling larvae or suffering extreme physical trauma (e
 
 Creatures who closely examine you must succeed a DC 15 Medicine or Insight check to notice signs of your condition.
 ```
+
+## Class: Cleric - Grave Domain
+*not sure atm, still thinking about it*
+*unearthed arcana for 2024 btw, either that or the homebrew ruin domain as seen here [click me](https://www.reddit.com/r/UnearthedArcana/comments/1edhq0g/cleric_ruin_domain/#lightbox)
