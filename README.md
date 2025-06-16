@@ -34,7 +34,7 @@ Your walking speed is 30 feet.
 ```
 
 ### Deathless Nature:
-> You're not truly dead, but not fully alive either — a condition represented by the following benefits:
+> You're not truly dead, but not fully alive either — a condition represented by the following benefits
 
 ```
  - You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage.
@@ -44,7 +44,7 @@ Your walking speed is 30 feet.
 ```
 
 ### Deathless Stagger:
-> The larvae shield you from falling unconscious 
+> Your body refuses to fall, pushed forward by sheer instinct and the crawling will of your unnatural resilience. Even at the brink of death, something inside forces you to move once more.
 
 ```
 When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
@@ -62,7 +62,7 @@ Your body cannot be healed by magical or mundane means. Instead:
 ```
 
 ### Brood Disguise
-> Your body is nearly indistinguishable from a human's under normal conditions.
+> Your appearance masks the truth — skin stretched convincingly over something long past life. Only under strain or scrutiny does the illusion crack, revealing the quiet horror beneath.
 
 ```
 Unless you are actively expelling larvae or suffering extreme physical trauma (e.g. a wound that causes over 50% of your HP in one blow), your condition remains undetectable.
