@@ -3,7 +3,7 @@
 
 ---
 ## Core concept:
-> My concept is to have a race of a kind of neither dead nor alive "humans" that are being kept alive due to some larvae fixing them. I wanted my character to be ashamed of their true nature and try to keep it hidden ([see here](#brood-disguise)) They're a cleric (exact domain still pending) that has thus now the ability to specifically hunt for undead and matching skills to do so. The character was supposed to be loyal to this cause and on the side of humans as they've not always been this way (but things could always change of course)
+> My concept is to have a race of a kind of neither dead nor alive "humans" that are being kept alive due to some larvae fixing them. I wanted my character to be ashamed of their true nature and try to keep it hidden ([see here](#brood-disguise)) They're a cleric (exact domain still pending) that has thus now the ability to specifically hunt for undead and matching skills to do so. The character was supposed to be loyal to this cause and on the side of humans (but things could always change of course)
 
 ## Race: Necrosar 
 > The Necrosar are the last remnants of a nearly extinct necromantic bloodline — humans whose bodies entered a grotesque but stable symbiosis with necrotic larvae. These parasites sustain the host’s body, granting unnatural endurance and a slow, crawling form of regeneration. Outwardly human, Necrosar blend in with the living... until their biology betrays them.
