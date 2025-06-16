@@ -35,6 +35,7 @@ Your walking speed is 30 feet.
 
 ### Deathless Nature:
 > You're not truly dead, but not fully alive either — a condition represented by the following benefits:
+
 ```
  - You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage.
  - You have advantage on death saving throws.
@@ -44,12 +45,14 @@ Your walking speed is 30 feet.
 
 ### Deathless Stagger:
 > The larvae shield you from falling unconscious 
+
 ```
 When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
 ```
 
 ###  Necrotic Recomposition:
 > Your flesh is rewoven slowly by the necrotic larvae inside you — a crawling repair process neither divine nor natural. Holy energies burn or paralyze the swarm, locking your body in decay until they recover.
+
 ```
 Your body cannot be healed by magical or mundane means. Instead:
  - You regain hit points equal to your proficiency bonus at the end of every turn (every 6 seconds), whether in or out of combat, as long as you are above 0 HP.
