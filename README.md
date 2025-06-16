@@ -60,6 +60,7 @@ Your body cannot be healed by magical or mundane means. Instead:
 
 ### Brood Disguise
 > Your body is nearly indistinguishable from a human's under normal conditions.
+
 ```
 Unless you are actively expelling larvae or suffering extreme physical trauma (e.g. a wound that causes over 50% of your HP in one blow), your condition remains undetectable.
 
