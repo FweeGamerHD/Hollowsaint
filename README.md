@@ -8,16 +8,6 @@
 ## Race: Necrosar 
 > The Necrosar are the last remnants of a nearly extinct necromantic bloodline — humans whose bodies entered a grotesque but stable symbiosis with necrotic larvae. These parasites sustain the host’s body, granting unnatural endurance and a slow, crawling form of regeneration. Outwardly human, Necrosar blend in with the living... until their biology betrays them.
 
-### ASI:
-```
-Increase one ability score by 2 and increase a different one by 1, or increase three different ability scores by 1.
-```
-
-### Languages:
-```
-You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.
-```
-
 ### Creature type:
 ```
 You are a humanoid.
@@ -80,3 +70,24 @@ Creatures who closely examine you must succeed a DC 15 Medicine or Insight check
 *either the unearthed arcana grave domain for the 2024 rules [click me](https://media.dndbeyond.com/compendium-images/ua/horror-subclasses/gPZTjw31gGeVdQKl/UA2025-HorrorSubclasses.pdf)*
 
 *or the homebrew "ruin domain" as seen here [click me](https://www.reddit.com/r/UnearthedArcana/comments/1edhq0g/cleric_ruin_domain/#lightbox)*
+
+## Background
+*wip*
+
+### ASI:
+```
+Increase one ability score by 2 and increase a different one by 1, or increase three different ability scores by 1.
+```
+
+### Languages:
+```
+You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.
+```
+
+### Feat:
+
+### Skill Proficiencies:
+
+### Tool Proficiency:
+
+### Equipment:
