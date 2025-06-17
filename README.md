@@ -76,7 +76,7 @@ Creatures who closely examine you must succeed a DC 15 Medicine or Insight check
 
 ### ASI:
 ```
-Increase one ability score by 2 and increase a different one by 1, or increase three different ability scores by 1.
+Strength, Constitution, Wisdom
 ```
 
 ### Languages:
@@ -85,9 +85,18 @@ You can speak, read, and write Common and one other language that you and your D
 ```
 
 ### Feat:
+```
+(Savage Attacker)[http://dnd2024.wikidot.com/feat:savage-attacker]
+```
 
 ### Skill Proficiencies:
+```
+Deception and Perception
+```
 
 ### Tool Proficiency:
+```
+
+```
 
 ### Equipment:
