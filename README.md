@@ -96,7 +96,10 @@ Deception and Perception
 
 ### Tool Proficiency:
 ```
-
+Medical kit (click me)[https://www.reddit.com/r/DnDHomebrew/comments/71zzax/medical_kit/]
 ```
 
 ### Equipment:
+```
+a) replacing the mace from starting gear with longsword (selling mace - 10GP instead of 15GP), Medical kit, and 10GP
+```
